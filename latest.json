@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "version": "0.3.0",
+  "zip_url": "https://github.com/Afum001/agrireport-releases/releases/download/v0.3.0/AgriReport-v0.3.0.zip",
+  "sha256": "61c7fc8e6ef71ee77fdb37abf2301e823d1e0933fae366f530162aed849504ab",
+  "files": {
+    "app.py": "ef803cac7075ec288745b3d9dcb3a327e0e060705702c8229b439801d3a2a446",
+    "auto_launch.py": "87c89f9fe2d6c60f3ff5f60678a2fe8f769675274b68af842275f7824c769c8e",
+    "engine.py": "3327fd48a1f62c147334b8a1faca2f01fd453886225692318bc8b2a1e2813db0",
+    "phase2.py": "2e9297f98afe98f37f2f7f1af9d5909f197eca97c69b62e5553bd55c683aaf28",
+    "reporting.py": "10764e097cb424ecaf28d8f964203db43995ef81d7854e1792ee5b6b025f714d",
+    "requirements-ocr-optional.txt": "d3b16562c7ab21f0a16ab716c60c195c773c98796ce91432a5b8d5584dabbe90",
+    "requirements.txt": "bdc3fed2d762eaee6637e72c6efe1e2f8946df19df9cc75320de01cc33cf5374",
+    "start_linux_mac.sh": "d2599978eb3125555ab95e913f0677cb4517f9158475bc8e5f4f883a9f5a030a",
+    "start_windows.bat": "7e7137ee2be9b8da21a514fc0b6d7da033d9ee58ea0e46f29701cd3028012043",
+    "storage.py": "5b2be1a8b5c28f9f77f7490fef82235905ae0448831dd880e09c981ddb356677",
+    "tools/build_release.py": "1e55b711d2dc92e0f484d9c0975a7938cf44326ebaaee2c04f466f163259304c",
+    "update_manager.py": "3ac026785f81f47d891fc88b4eec1d1b56e190200223079210c8ce6a44f97e1f"
+  },
+  "notes": "AgriReport Intelligence release 0.3.0"
+}
