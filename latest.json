@@ -1,21 +1,23 @@
 {
   "schema": 1,
-  "version": "0.3.0",
-  "zip_url": "https://github.com/Afum001/agrireport-releases/releases/download/v0.3.0/AgriReport-v0.3.0.zip",
-  "sha256": "61c7fc8e6ef71ee77fdb37abf2301e823d1e0933fae366f530162aed849504ab",
+  "version": "0.4.0",
+  "zip_url": "https://github.com/Afum001/agrireport-releases/releases/download/v0.4.0/AgriReport-v0.4.0.zip",
+  "sha256": "9977921ac205a9a1cb078785dd5a0ccc8fd1e8086bf3190c8eee02075be28e4a",
   "files": {
-    "app.py": "ef803cac7075ec288745b3d9dcb3a327e0e060705702c8229b439801d3a2a446",
-    "auto_launch.py": "87c89f9fe2d6c60f3ff5f60678a2fe8f769675274b68af842275f7824c769c8e",
-    "engine.py": "3327fd48a1f62c147334b8a1faca2f01fd453886225692318bc8b2a1e2813db0",
-    "phase2.py": "2e9297f98afe98f37f2f7f1af9d5909f197eca97c69b62e5553bd55c683aaf28",
+    "app.py": "7a1b2069e8ff7699cecd5ce952fd89012b669762866054a494964b99e150e95d",
+    "engine.py": "4d41668c84893a74de7562d558ff65848c94b236a3567a6e638e69a548aec163",
     "reporting.py": "10764e097cb424ecaf28d8f964203db43995ef81d7854e1792ee5b6b025f714d",
-    "requirements-ocr-optional.txt": "d3b16562c7ab21f0a16ab716c60c195c773c98796ce91432a5b8d5584dabbe90",
-    "requirements.txt": "bdc3fed2d762eaee6637e72c6efe1e2f8946df19df9cc75320de01cc33cf5374",
-    "start_linux_mac.sh": "d2599978eb3125555ab95e913f0677cb4517f9158475bc8e5f4f883a9f5a030a",
-    "start_windows.bat": "7e7137ee2be9b8da21a514fc0b6d7da033d9ee58ea0e46f29701cd3028012043",
+    "phase2.py": "2e9297f98afe98f37f2f7f1af9d5909f197eca97c69b62e5553bd55c683aaf28",
+    "phase3.py": "8f41737d032b586257c8e698947fb504a9d85a95ef3cd4fa7dc591366dece63c",
+    "phase3_report.py": "3c6808a7540a1e1dcb9e167a7b57ce1af1f4bc0b68e03fb880ecd7f5f4c4d827",
     "storage.py": "5b2be1a8b5c28f9f77f7490fef82235905ae0448831dd880e09c981ddb356677",
-    "tools/build_release.py": "1e55b711d2dc92e0f484d9c0975a7938cf44326ebaaee2c04f466f163259304c",
-    "update_manager.py": "3ac026785f81f47d891fc88b4eec1d1b56e190200223079210c8ce6a44f97e1f"
+    "auto_launch.py": "87c89f9fe2d6c60f3ff5f60678a2fe8f769675274b68af842275f7824c769c8e",
+    "update_manager.py": "5e2cfb4066cc108043aee310d10cbacbb94e934e5bc4ce13606752ce65933587",
+    "requirements.txt": "bdc3fed2d762eaee6637e72c6efe1e2f8946df19df9cc75320de01cc33cf5374",
+    "requirements-ocr-optional.txt": "d3b16562c7ab21f0a16ab716c60c195c773c98796ce91432a5b8d5584dabbe90",
+    "start_windows.bat": "17b9e1c78fdd4d44f60204cf7c3297aa820efc101fa7c24e08ef386b9eb60f33",
+    "start_linux_mac.sh": "d2599978eb3125555ab95e913f0677cb4517f9158475bc8e5f4f883a9f5a030a",
+    "tools/build_release.py": "364ca0bc4099a26a0f4fb1a90b547b708fe3ee37e94fc12c709ed49cee19d584"
   },
-  "notes": "AgriReport Intelligence release 0.3.0"
+  "notes": "AgriReport Intelligence 0.4.0: Q1-Q4 and Annual reporting; software only."
 }
